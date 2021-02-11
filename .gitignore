@@ -1,0 +1,9 @@
+*.pvc
+*~
+/.vscode
+__pycache__
+env
+db.sqlite3
+/static
+.DS_Store
+#ここに記述することで無視される
